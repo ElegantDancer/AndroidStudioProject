@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitdemo" />
+            <option value="$PROJECT_DIR$/animationdemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calculaterdemo" />
+            <option value="$PROJECT_DIR$/complexclient" />
+            <option value="$PROJECT_DIR$/ctripdemo" />
+            <option value="$PROJECT_DIR$/databasedemo" />
+            <option value="$PROJECT_DIR$/filetestdemo" />
+            <option value="$PROJECT_DIR$/fragmentdemo" />
+            <option value="$PROJECT_DIR$/gesturedemo" />
+            <option value="$PROJECT_DIR$/handdraw" />
+            <option value="$PROJECT_DIR$/handlertest" />
+            <option value="$PROJECT_DIR$/httpdemo" />
+            <option value="$PROJECT_DIR$/jsdemo" />
+            <option value="$PROJECT_DIR$/layerlistdemo" />
+            <option value="$PROJECT_DIR$/listviewdemo" />
+            <option value="$PROJECT_DIR$/listviewsavelocationdemo" />
+            <option value="$PROJECT_DIR$/musicdemo" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/myjavapro" />
+            <option value="$PROJECT_DIR$/mysimpleonestep" />
+            <option value="$PROJECT_DIR$/myslingmenu" />
+            <option value="$PROJECT_DIR$/popupwindowdemo" />
+            <option value="$PROJECT_DIR$/pullToRefreshTest" />
+            <option value="$PROJECT_DIR$/pulltorefresh" />
+            <option value="$PROJECT_DIR$/resourcenotfounddemo" />
+            <option value="$PROJECT_DIR$/scrolldemo" />
+            <option value="$PROJECT_DIR$/searchviewdemo" />
+            <option value="$PROJECT_DIR$/singleinstancedemo" />
+            <option value="$PROJECT_DIR$/sqlitedemo" />
+            <option value="$PROJECT_DIR$/unittestdemo" />
+            <option value="$PROJECT_DIR$/viewdispatchdemo" />
+            <option value="$PROJECT_DIR$/viewlocationdemo" />
+            <option value="$PROJECT_DIR$/viewswitcherdemo" />
+            <option value="$PROJECT_DIR$/viewtest" />
+            <option value="$PROJECT_DIR$/volleydemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

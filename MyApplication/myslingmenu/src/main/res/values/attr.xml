@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myPadding" format="dimension"/>
+    <attr name="text_drawable" format="reference"/>
+    <attr name="text_drawable_width" format="dimension"/>
+    <attr name="text_drawable_height" format="dimension"/>
+
+    <declare-styleable name="MySlingMenu">
+
+        <attr name="myPadding"/>
+    </declare-styleable>
+
+    <declare-styleable name="MyTextView">
+        <attr name="text_drawable"/>
+        <attr name="text_drawable_direction">
+            <enum name="left" value="0"/>
+            <enum name="top" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="bottom" value="3"/>
+        </attr>
+        <attr name="text_drawable_width"/>
+        <attr name="text_drawable_height"/>
+    </declare-styleable>
+
+</resources>

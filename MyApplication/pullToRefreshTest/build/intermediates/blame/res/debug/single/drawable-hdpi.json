@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/MyApplication/pullToRefreshTest/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/MyApplication/pullToRefreshTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/MyApplication/pullToRefreshTest/build/intermediates/res/merged/debug/drawable-hdpi/arrow.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/MyApplication/pullToRefreshTest/src/main/res/drawable-hdpi/arrow.png"
+    }
+]
