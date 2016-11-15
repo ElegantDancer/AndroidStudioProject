@@ -1,10 +1,12 @@
 package com.example.zhenzhen.myslingmenu;
 
 import android.content.Context;
+import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.TypedValue;
+import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.HorizontalScrollView;
@@ -34,6 +36,9 @@ public class MySlingMenu extends HorizontalScrollView {
         mScreenWidth = metrics.widthPixels;
 
         mPaddingLeft = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, 50, context.getResources().getDisplayMetrics());
+
+        TypedArray array = context.obtainStyledAttributes(attrs, R.styleable.MySlingMenu);
+        mPaddingLeft = (int) array.getDimension(R.styleable.MySlingMenu_myPadding, 50);
     }
 
     @Override
@@ -76,5 +81,11 @@ public class MySlingMenu extends HorizontalScrollView {
             this.scrollBy(mScreenWidth, 0);
 
         }
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent ev) {
+        int x = getScrollX();
+        return super.onTouchEvent(ev);
     }
 }

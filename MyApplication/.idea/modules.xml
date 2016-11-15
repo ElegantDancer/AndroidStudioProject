@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/viewswitcherdemo/viewswitcherdemo.iml" filepath="$PROJECT_DIR$/viewswitcherdemo/viewswitcherdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewtest/viewtest.iml" filepath="$PROJECT_DIR$/viewtest/viewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/volleydemo/volleydemo.iml" filepath="$PROJECT_DIR$/volleydemo/volleydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waterfallDemo/waterfallDemo.iml" filepath="$PROJECT_DIR$/waterfallDemo/waterfallDemo.iml" />
     </modules>
   </component>
 </project>

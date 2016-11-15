@@ -9,6 +9,8 @@
     <com.example.zhenzhen.myslingmenu.MyOtherSlingMenu
         android:layout_width="wrap_content"
         android:scrollbarThumbHorizontal="@null"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:myPadding="19dp"
         android:layout_height="match_parent">
 
         <LinearLayout

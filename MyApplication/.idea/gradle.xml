@@ -44,6 +44,7 @@
             <option value="$PROJECT_DIR$/viewswitcherdemo" />
             <option value="$PROJECT_DIR$/viewtest" />
             <option value="$PROJECT_DIR$/volleydemo" />
+            <option value="$PROJECT_DIR$/waterfallDemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

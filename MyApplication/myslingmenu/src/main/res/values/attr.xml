@@ -7,7 +7,6 @@
 
     <declare-styleable name="MySlingMenu">
 
-        <attr name="myPadding"/>
     </declare-styleable>
 
     <declare-styleable name="MyTextView">
