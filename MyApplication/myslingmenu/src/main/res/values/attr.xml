@@ -6,7 +6,7 @@
     <attr name="text_drawable_height" format="dimension"/>
 
     <declare-styleable name="MySlingMenu">
-
+       <attr name="myPadding"/>
     </declare-styleable>
 
     <declare-styleable name="MyTextView">

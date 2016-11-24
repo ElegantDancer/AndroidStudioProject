@@ -84,8 +84,8 @@ public class MySlingMenu extends HorizontalScrollView {
     }
 
     @Override
-    public boolean onTouchEvent(MotionEvent ev) {
-        int x = getScrollX();
-        return super.onTouchEvent(ev);
+    protected void onScrollChanged(int l, int t, int oldl, int oldt) {
+        super.onScrollChanged(l, t, oldl, oldt);
+        mMenuView.setTranslationX(l);
     }
 }

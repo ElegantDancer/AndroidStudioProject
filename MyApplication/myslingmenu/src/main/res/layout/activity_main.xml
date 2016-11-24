@@ -6,7 +6,7 @@
     android:orientation="horizontal"
     tools:context=".MainActivity">
 
-    <com.example.zhenzhen.myslingmenu.MyOtherSlingMenu
+    <com.example.zhenzhen.myslingmenu.MySlingMenu
         android:layout_width="wrap_content"
         android:scrollbarThumbHorizontal="@null"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -23,6 +23,6 @@
 
         </LinearLayout>
 
-    </com.example.zhenzhen.myslingmenu.MyOtherSlingMenu>
+    </com.example.zhenzhen.myslingmenu.MySlingMenu>
 
 </LinearLayout>
